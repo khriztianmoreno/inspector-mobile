@@ -17,7 +17,7 @@
     "react-native-dismiss-keyboard": "1.0.0",
     "react-native-navbar": "1.8.0",
     "react-native-side-menu": "0.20.3",
-    "react-native-tab-view": "0.0.18",
+    "react-native-tab-view": "0.0.78",
     "react-native-vector-icons": "2.1.0",
     "react-redux": "4.4.10",
     "redux": "3.7.2",
